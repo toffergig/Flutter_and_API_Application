@@ -1,7 +1,7 @@
 # flutter_activity2
 
 ListView simple mobile application which was built using flutter. Below you will see how the application looks like. This utlizes GET API calls for data.\
-![Image Name](images/MergeImage.png)
+![Image Name](images/MergeImage.jpg)
 
 ## Getting Started
 
