@@ -9,6 +9,8 @@ jobs:
     steps:
       - checkout
       - run: flutter doctor
+      - run: flutter upgrade
+      - run: flutter run test
       - run: flutter build apk --release
       - store_artifacts:
           path: build/app/outputs/flutter-apk/app-release.apk
