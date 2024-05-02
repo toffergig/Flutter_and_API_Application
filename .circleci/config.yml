@@ -9,6 +9,7 @@ jobs:
     steps:
       - checkout
       - run: flutter doctor
+      - run: flutter upgrade
       - run: flutter test run
       - run: flutter build apk --release
       - store_artifacts:
