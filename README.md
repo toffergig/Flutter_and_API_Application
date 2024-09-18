@@ -1,4 +1,4 @@
-# flutter_stacked_act1
+# Flutter_and_API_Application
 
 ListView simple mobile application which was built using flutter. Below you will see how the application looks like. This utlizes GET API calls for data.\
 ![Image Name](images/MergeImage.jpg)
